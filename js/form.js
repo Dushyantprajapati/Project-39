@@ -14,8 +14,8 @@ class Form{
     }
     display() {
         this.title.html("FRUIT CATCHING GAME");
-        this.title.position(300, 50);
-        this.title.style('font-size', '70px');
+        this.title.position(200, 50);
+        this.title.style('font-size', '50px');
         this.title.style('color', 'skyblue');
         this.input.position(550,400);
         this.input.style('width', '200px');
